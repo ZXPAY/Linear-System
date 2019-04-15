@@ -2,6 +2,7 @@
 ### 本次作業、實驗為計算Jordan Form，並討論其特性
 
 #### Example matrix A below
+``` latex
 $$
 A=\left [\matrix{
 0.3&1&0&0&0\\
@@ -11,6 +12,7 @@ A=\left [\matrix{
 0&0&0&0&0.3
 }\right ]
 $$
+```
 #### To find eigenvalue, it satisfied $A\vec{K} = \lambda\vec{K}$
 
 $$(A-\lambda I)\vec{K} = \{\vec{0}\}$$
