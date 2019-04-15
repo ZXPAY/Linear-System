@@ -2,7 +2,7 @@
 ### 本次作業、實驗為計算Jordan Form，並討論其特性
 
 #### Example matrix A below
-<a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;A=\left&space;[\matrix{&space;0.3&1&0&0&0\\&space;0&0.3&1&0&0\\&space;0&0&0.3&0&0\\&space;0&0&0&0.3&1\\&space;0&0&0&0&0.3&space;}\right&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;A=\left&space;[\matrix{&space;0.3&1&0&0&0\\&space;0&0.3&1&0&0\\&space;0&0&0.3&0&0\\&space;0&0&0&0.3&1\\&space;0&0&0&0&0.3&space;}\right&space;]" title="$$ A=\left [\matrix{ 0.3&1&0&0&0\\ 0&0.3&1&0&0\\ 0&0&0.3&0&0\\ 0&0&0&0.3&1\\ 0&0&0&0&0.3 }\right ]" /></a>
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
 #### To find eigenvalue, it satisfied $A\vec{K} = \lambda\vec{K}$
 
 $$(A-\lambda I)\vec{K} = \{\vec{0}\}$$
